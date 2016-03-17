@@ -9,11 +9,11 @@ angular.module('makersBnB', ['ngRoute'])
   });
 }])
 
-.controller('SpacesCtrl', ['$scope', function($scope) {
-  this.getSpaces = function() {
-		return [{id: 1, name: "my lovely space"}, {id: 2, name: "My horrible space"}];
-	};
+.controller('SpacesCtrl', function($scope) {
 
-	$scope.spaces = this.getSpaces();
 
-}]);
+    $scope.spaces = {space:{id: 1, name: "my lovely space"}};
+});
+
+
+
