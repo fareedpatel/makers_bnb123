@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  #MakersBnB - AngularRails
 
 ######A Makers Academy project (Week 9: Angular/Rails Project Week)
@@ -28,4 +28,3 @@ I want to be able to create a new space.
 :construction: Spiking Angular talking to Rails
 =======
 Fork me to start this Project. Once done, submit a Pull Request.
->>>>>>> 1a8869a60dfaccfc0a69da7893408585127469eb
